@@ -1,5 +1,3 @@
-# That girl does not care :)
-# Now it's free for you, Programmer by: Omar Othman
 
 import sys
 import os
